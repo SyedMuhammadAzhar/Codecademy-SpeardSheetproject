@@ -1,0 +1,31 @@
+h1{
+  text-align:center;
+  color:red;
+  font-weight:bold;
+  letter-spacing:2px;
+  font-family:monospace;
+}
+h3{
+  text-align:center;
+  color:Crimson;
+  letter-spacing:2px;
+  font-family:monospace;
+  
+}
+
+table{
+  border:3px solid powderBlue ;
+  width:80%;
+  position:relative;
+  left:10%;
+}
+th{
+  
+  background-color:lightBlue;
+  padding:15px;
+  color:white;
+}
+td{
+  border:1px solid DeepSkyBlue;
+  border-bottom:1px solid black;
+}
